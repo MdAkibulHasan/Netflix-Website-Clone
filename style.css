@@ -81,7 +81,7 @@ nav button{
     outline: 0;
     margin-left: 20px;
 }
-/* .email-signup button{
+.email-signup button{
     background: #db0001;
     border: 0;
     outline: 0;
@@ -89,4 +89,4 @@ nav button{
     font-size: 16px;
     cursor: pointer;
     padding:16px 31px;
-} */
+}
